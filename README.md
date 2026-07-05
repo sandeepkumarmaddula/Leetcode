@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
