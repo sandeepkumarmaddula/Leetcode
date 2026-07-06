@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0263-ugly-number) |
+| [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
