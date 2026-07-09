@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
