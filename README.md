@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 ## Brainteaser
 |  |
 | ------- |
