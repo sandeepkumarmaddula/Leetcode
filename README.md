@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Brainteaser
 |  |
 | ------- |
