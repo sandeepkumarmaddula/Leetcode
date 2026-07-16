@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0263-ugly-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
