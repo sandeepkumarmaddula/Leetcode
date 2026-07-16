@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
@@ -149,4 +152,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
