@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
