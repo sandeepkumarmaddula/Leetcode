@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1816-truncate-sentence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1816-truncate-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
