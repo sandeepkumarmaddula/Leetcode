@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
