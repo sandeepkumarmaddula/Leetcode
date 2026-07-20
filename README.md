@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
