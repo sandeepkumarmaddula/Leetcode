@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
