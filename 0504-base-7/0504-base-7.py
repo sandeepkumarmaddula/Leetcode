@@ -3,10 +3,11 @@ class Solution:
         if num==0: return "0"
         neg=num<0
         num=abs(num)
-        s=[]
+        s=""
         while num>0:
-            s.append(str(num%7))
+            s=str(num%7)+s
             num//=7
         if neg:
-            s.append("-")
-        return "".join(s[::-1])
+            s="-"+s
+        return "".join(s)
+        
