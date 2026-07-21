@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0263-ugly-number) |
+| [0504-base-7](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
