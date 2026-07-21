@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
