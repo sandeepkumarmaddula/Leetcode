@@ -1,4 +1,12 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-        for i in range(n,n+10):
-            if reduce(mul,map(int,str(i)))%t==0: return i
+        while True:
+            num=list(str(n))
+            mul=1
+            for i in range(len(num)):
+                mul*=int(num[i])
+            if mul%t==0:
+                return n
+            else:
+                n=n+1
+        return n
