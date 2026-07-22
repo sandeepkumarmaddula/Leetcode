@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0229-majority-element-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
