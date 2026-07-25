@@ -4,7 +4,7 @@ class Solution:
         b=0
         while n>0:
             d=n%10
-            a=a*d
+            a*=d
             b+=d
             n//=10
         return a-b
