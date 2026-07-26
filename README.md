@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
