@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
