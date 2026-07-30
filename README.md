@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
