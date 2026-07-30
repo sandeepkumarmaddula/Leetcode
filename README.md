@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0682-baseball-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
