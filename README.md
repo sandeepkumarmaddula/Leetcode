@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2652-sum-multiples](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
