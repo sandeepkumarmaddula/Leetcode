@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
