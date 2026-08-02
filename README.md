@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2652-sum-multiples) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
