@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1446-consecutive-characters](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1768-merge-strings-alternately) |
