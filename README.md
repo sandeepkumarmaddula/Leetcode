@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
