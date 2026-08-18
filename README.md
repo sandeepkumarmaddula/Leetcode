@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0520-detect-capital) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1768-merge-strings-alternately) |
