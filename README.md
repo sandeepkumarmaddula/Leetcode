@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2235-add-two-integers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2235-add-two-integers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
