@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -383,5 +387,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
