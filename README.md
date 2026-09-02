@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1017-convert-to-base-2](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1323-maximum-69-number) |
 | [1518-water-bottles](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1518-water-bottles) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0912-sort-an-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
