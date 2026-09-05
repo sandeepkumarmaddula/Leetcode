@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2652-sum-multiples) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
