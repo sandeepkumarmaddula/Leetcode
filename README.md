@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3794-reverse-string-prefix](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3794-reverse-string-prefix) |
