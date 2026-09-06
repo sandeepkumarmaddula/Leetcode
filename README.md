@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0912-sort-an-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
