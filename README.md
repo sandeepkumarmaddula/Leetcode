@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0263-ugly-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0290-word-pattern) |
