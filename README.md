@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
