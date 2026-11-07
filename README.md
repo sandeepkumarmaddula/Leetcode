@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
