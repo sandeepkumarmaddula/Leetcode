@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
