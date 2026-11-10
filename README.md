@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3731-find-missing-elements) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3693-climbing-stairs-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
