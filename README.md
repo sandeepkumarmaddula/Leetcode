@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0338-counting-bits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/sandeepkumarmaddula/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
